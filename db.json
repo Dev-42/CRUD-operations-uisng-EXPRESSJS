@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "id": 2,
+            "name": "Pooja",
+            "city": "Blr"
+        },
+        {
+            "id": 4,
+            "name": "Rashmi",
+            "city": "Madhya Pradesh"
+        }
+    ],
+    "fee_transactions": [
+        {
+            "id": 86,
+            "name": "tuition fees",
+            "amount": "5000"
+        },
+        {
+            "id": 98,
+            "name": "tuition fees",
+            "amount": 5000
+        }
+    ]
+}
